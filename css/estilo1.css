@@ -1,0 +1,47 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-weight: bold;
+}
+.logotipo{
+	width: 150px;
+	padding: 10px 0;
+}
+.iconos-redes{
+	width: 20px;
+	margin: 10px 5px;
+}
+.altura{
+	padding: 70px 0;
+}
+
+/*somos */
+
+.cabecera-somos{
+	padding: 150px 0 100px 0;
+	background-image: url("../images/somos/slider-interior.jpg");
+	background-position: center center;
+	background-size: cover;
+}
+.banner-somos{
+	background-image: url("../images/somos/somos-equipo.jpg");
+	background-position: center center;
+	background-size: cover;
+	padding: 200px 0;
+	text-align: center;
+	color: #fff;
+}
+footer{
+	background-color: #000000;
+	padding: 100px 0;
+	text-align: center;
+}
+footer .logotipo-footer{
+	width: 200px;
+	margin-bottom: 20px;
+}
+footer p{
+	color: #fff;
+	font-size: 12px;
+}
